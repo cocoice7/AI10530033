@@ -4,7 +4,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-class Man:
+class ass:
     def __init__(self,x):
         self.x = np.arange(0, 6, 0.1)
     def sin(self):
@@ -20,7 +20,7 @@ class Man:
 
 
 ```python
-m = Man("")
+m = ass("")
 m.sin()
 m.cos()
 ```
