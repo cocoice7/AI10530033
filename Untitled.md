@@ -2,7 +2,6 @@
 
 ```python
 
-
 # %load sin_graph.py# %load 
 import numpy as np
 import matplotlib.pyplot as plt
