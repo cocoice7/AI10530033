@@ -10,3 +10,6 @@ y2 = np.cos(x)
 plt.plot(x, y1)
 plt.plot(x, y2)
 plt.show()
+
+
+https://github.com/tccnchsu/AI2007245
